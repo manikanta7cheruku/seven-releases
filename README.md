@@ -1,6 +1,6 @@
 # seven-releases
 
-# SEVEN — Private AI Voice Assistant
+# SEVEN - Private AI Voice Assistant
 
 Your personal Jarvis. Runs 100% on your machine. No cloud. No data leaves your device.
 
@@ -35,4 +35,4 @@ Your personal Jarvis. Runs 100% on your machine. No cloud. No data leaves your d
 ## Support
 
 - Issues: open a GitHub issue
-- Email: your@email.com
+- Email: cherukumanikanta77@email.com
